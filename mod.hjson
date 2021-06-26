@@ -1,8 +1,13 @@
 { 
-    name: "among-us-bundle"
-    displayName: "Among Us Bundles (WIP)"
+    name: "amogustry"
+    displayName: "Amogustry (WIP)"
     author: "[#87CEEB[]]JrTRinny[]"
-    description: "A Mod that replaces the default English bundle with the most 'suspicious' bundle in the game"
+    description: '''
+    A very suspicious mod
+    -Replace the default English bundle with the most suspicious bundle in the game
+    -Replace some sprites with a very sus one (WIP)
+    -might add more contents
+    '''
     version: "0.1 (WIP)"
     minGameVersion: 126
     hidden: true
