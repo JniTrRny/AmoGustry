@@ -1,9 +1,9 @@
-{
+{ 
     name: "among-us-bundle",
     displayName: "Among Us Bundles (WIP)",
     author: "[#87CEEB]JrTRinny[]",
     description: "A Mod that replaces the default English bundle with the most "suspicious" bundle in the game",
-    version: 0.1,
+    version: "WIP",
     minGameVersion: 126,
     hidden: true
 }
