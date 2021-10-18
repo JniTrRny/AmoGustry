@@ -9,7 +9,7 @@
     -Replace some sprites with a very sus one (WIP)
     -might add more contents
     '''
-    version: "0.1 (WIP)"
-    minGameVersion: 126
+    version: "0.1.2 (WIP)"
+    minGameVersion: 131
     hidden: true
 }
