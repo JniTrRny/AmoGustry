@@ -1,7 +1,7 @@
 { 
     name: "amogustry"
     displayName: "Amogustry (WIP)"
-    author: "[#87CEEB[]]JrTRinny[]"
+    author: "[#87CEEB[]][[Classified][]"
     description: '''
     A very "suspicious" mod
     
@@ -9,7 +9,7 @@
     -Replace some sprites with a very sus one (WIP)
     -might add more contents
     '''
-    version: "0.1 (WIP)"
+    version: "WIP"
     minGameVersion: 126
     hidden: true
 }
